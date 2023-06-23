@@ -1,6 +1,8 @@
 # DataStructure_And_Algorithm-Insertion_Sort
 
-Data Structure & Algorithm Assignment 1 : Insertion Sort<br>
+Data Structure & Algorithm Assignment 1 : Insertion Sort
+
+Requirement
 
 Insertion Sort 구현
 
