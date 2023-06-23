@@ -2,7 +2,7 @@
 
 Data Structure & Algorithm Assignment 1 : Insertion Sort
 
-Requirement
+Requirement:
 
 Insertion Sort 구현
 
